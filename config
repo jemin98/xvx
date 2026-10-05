@@ -13,5 +13,5 @@
   "link": "https://103.playpokigames.com/",
   "show_reward": true,
   "reward_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "show_launcher": false
+  "show_launcher": true
 }
