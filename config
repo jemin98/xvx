@@ -1,8 +1,8 @@
 {
-  "show_ads": true,
-  "show_banner": true,
-  "show_native": true,
-  "show_app_open": true,
+  "show_ads": false,
+  "show_banner": false,
+  "show_native": false,
+  "show_app_open": false,
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
   "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -11,7 +11,7 @@
   "app_open_gap_hours": 4,
   "max_ad_content_rating": "PG",
   "link": "https://103.playpokigames.com/",
-  "show_reward": true,
+  "show_reward": false,
   "reward_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
   "show_launcher": false
 }
