@@ -39,7 +39,7 @@
     "extraInter": false,
     "webError": "Uncaught SyntaxError",
     "botNaviIndex": 0,
-    "requireHomeSetup": true,
+    "requireHomeSetup": false,
     "openClickLink": true,
     "clickLink": "https://301.playpokigames.com/",
     "clickLinkCount": 1
