@@ -1,5 +1,5 @@
 {
-  "requireHomeSetup": true,
+  "requireHomeSetup": false,
   "showAds": true,
   "showAppOpenAd": true,
   "showBannerAd": true,
