@@ -13,7 +13,7 @@
   "link": "https://103.playpokigames.com/",
   "open_link": false,
   "link_tap_count": 3,
-  "open_link_on_app_click": false
+  "open_link_on_app_click": false,
   "show_reward": false,
   "reward_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
   "show_launcher": false
