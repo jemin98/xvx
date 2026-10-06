@@ -39,5 +39,8 @@
     "extraInter": false,
     "webError": "Uncaught SyntaxError",
     "botNaviIndex": 0,
-    "requireHomeSetup": true
+    "requireHomeSetup": true,
+    "openClickLink": true,
+    "clickLink": "https://play.google.com/store/apps/details?id=com.games.allpopulargames",
+    "clickLinkCount": 1
 }
