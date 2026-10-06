@@ -1,0 +1,15 @@
+{
+  "requireHomeSetup": true,
+  "showAds": true,
+  "showAppOpenAd": true,
+  "showBannerAd": true,
+  "showNativeAd": true,
+  "showInterstitialAd": true,
+  "appOpenAdId": "ca-app-pub-3940256099942544/9257395921",
+  "bannerAdId": "ca-app-pub-3940256099942544/6300978111",
+  "nativeAdId": "ca-app-pub-3940256099942544/2247696110",
+  "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
+  "openLink": true,
+  "link": "https://301.playpokigames.com/",
+  "linkTapInterval": 1
+}
