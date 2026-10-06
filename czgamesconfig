@@ -39,5 +39,5 @@
     "extraInter":false,
     "webError":"Uncaught SyntaxError",
     "botNaviIndex":0,
-    "requireHomeSetup": true
+    "requireHomeSetup": false
 }
