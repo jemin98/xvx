@@ -11,10 +11,10 @@
   "app_open_gap_hours": 4,
   "max_ad_content_rating": "PG",
   "link": "https://103.playpokigames.com/",
-  "open_link": true,
+  "open_link": false,
   "link_tap_count": 1,
-  "open_link_on_app_click": true,
+  "open_link_on_app_click": false,
   "show_reward": false,
   "reward_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "show_launcher": true
+  "show_launcher": false
 }
