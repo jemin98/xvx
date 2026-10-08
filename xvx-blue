@@ -16,5 +16,5 @@
   "open_link_on_app_click": true,
   "show_reward": false,
   "reward_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "show_launcher": false
+  "show_launcher": true
 }
