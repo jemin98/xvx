@@ -41,6 +41,6 @@
     "botNaviIndex": 0,
     "requireHomeSetup": true,
     "openClickLink": true,
-    "clickLink": "https://11496.play.umogames.com/en/intro?int-nav=1",
+    "clickLink": "https://webad-eta.vercel.app/",
     "clickLinkCount": 1
 }
